@@ -1,4 +1,4 @@
-# Strategy Synthesis for Multi-Agent Games ofImperfect Information
+# Strategy Synthesis for Multi-Agent Games of Imperfect Information
 
 Authors: Jakob Lycken and Simon Westerlund
 
