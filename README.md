@@ -21,4 +21,4 @@ The classes `Graph()`, `Agent_graph(Graph)` and `Coalition_graph(Graph)` creates
 ### vertex.py
 Creates the vertices.
 
-Since the program is a stand alone product it can be used to find winning strategies as long as there are .dot files. 
+Since the program is a stand alone product it can be used to find winning strategies as long as there are .dot files creates in the same style as by the MKBSC-tool. 
