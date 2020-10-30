@@ -5,6 +5,7 @@ Authors: Jakob Lycken and Simon Westerlund
 
 Supervisor: Dilian Gurov
 
+If there are any questions regarding the tool, you can mail Jakob at jlycken@kth.se
 ## Best used with the MKBSC tool
 This tool is best paired with the `mkbsc` tool found [here](https://github.com/HelmerNylen/mkbsc) with the `stratsynth` folder placed in the same root folder as the `mkbsc` folder.
 
