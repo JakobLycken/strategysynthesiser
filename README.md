@@ -5,7 +5,7 @@ Authors: Jakob Lycken and Simon Westerlund
 
 Supervisor: Dilian Gurov
 
-If there are any questions regarding the tool, you can mail Jakob at jlycken@kth.se
+If there are any questions regarding the tool, you can mail Jakob at jlycken@kth.se.<br/>
 The paper can be found [here](http://www.diva-portal.org/smash/record.jsf?dswid=656&pid=diva2%3A1570274&c=1&searchType=SIMPLE&language=en&query=jakob+lycken&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 ## Best used with the MKBSC tool
 This tool is best paired with the `mkbsc` tool found [here](https://github.com/HelmerNylen/mkbsc) with the `stratsynth` folder placed in the same root folder as the `mkbsc` folder.
